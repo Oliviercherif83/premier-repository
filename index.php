@@ -1,1 +1,5 @@
-<p>Hello world</p>
+<?php
+
+echo "hello world";
+
+echo "JE GIT";
